@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 Hi all.
 Maybe we are old.
-fine.
+Fine.
 =======
 Hi all.how are u?
 how old are u?
