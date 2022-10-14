@@ -1,1 +1,1 @@
-console.log("This is about my first javascript assignment.");
+console.log("This is about my first javascript assignment.Copied to js-assignments.....");
